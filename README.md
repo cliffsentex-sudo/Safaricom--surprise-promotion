@@ -90,7 +90,7 @@
       information service and its terms.</p>
       <a class="button
          target="_blank" rel="noopener">
-         Visit Official Safaricom Website Whatsapp 0141082326
+         Visit Official Website Whatsapp 0141082326
       </a>
     </section>
   </main>
