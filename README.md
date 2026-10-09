@@ -16,7 +16,7 @@
     }
     header {
       background: #d50000;
-      color: white;
+      color: blue;
       padding: 32px 16px;
     }
     .gift { font-size: 60px; }
@@ -36,7 +36,7 @@
     .button {
       display: inline-block;
       background: #d50000;
-      color: white;
+      color: blue;
       text-decoration: none;
       padding: 13px 22px;
       border-radius: 9px;
@@ -71,13 +71,13 @@
       <p>Explore available promotions and eligibility
       requirements. All benefits depend on the official
       provider's published terms.</p>
-      <p>We do not guarantee loan approvals, increased
+      <p>We do  guarantee loan approvals, increased
       M-Shwari limits, or free calls and SMS.</p>
     </section>
 
     <section class="card">
       <h2>Registration Information</h2>
-      <p>Registration fees, if any, must be disclosed
+      <p>Registration fees is,100, if any, must be disclosed
       together with the exact service provided before
       payment. No fee is required to view this page.</p>
       <p>Do not send money until you have verified the
@@ -88,10 +88,9 @@
       <h2>Need Help?</h2>
       <p>Contact us to ask about our independent
       information service and its terms.</p>
-      <a class="button"
-         href="https://www.safaricom.co.ke/"
+      <a class="button
          target="_blank" rel="noopener">
-         Visit Official Safaricom Website
+         Visit Official Safaricom Website Whatsapp 0141082326
       </a>
     </section>
   </main>
@@ -100,7 +99,7 @@
     <p>Independent information page.</p>
     <p>Not affiliated with, sponsored by, or endorsed
     by Safaricom PLC.</p>
-    <p>Verify offers through official channels.</p>
+    <p>Verify offers through officials what's up channels whats up 0141082326.</p>
   </footer>
 </body>
 </html>
